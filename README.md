@@ -1,5 +1,4 @@
 # REST API
-REST API
 The term REST stands for REpresentational State Transfer. It is an architectural style that defines a set of rules in order to create Web Services. In a client-server communication, REST suggests to create an object of the data requested by the client and send the values of the object in response to the user. For example, if the user is requesting for a movie in Bangalore at a certain place and time, then you can create an object on the server-side.
 
 So, over here, you have an object and you are sending the state of an object. This is why REST is known as Representational State Transfer.
